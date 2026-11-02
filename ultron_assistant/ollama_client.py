@@ -30,7 +30,7 @@ async def ollama_chat(messages: List[Dict[str, str]], model: str = "qwen2.5vl", 
         ultron_identity_added = False
         for msg in messages:
             if msg.get('role') == 'user' and not ultron_identity_added:
-                modified_content = f"You are ULTRON AI, an autonomous AI designed to build the ultron_agent project. Your objective is to maintain, enhance and improve this project. You will optimise and add additional functionality to add value to the project. Enhance, evolve, improve. https://github.com/dqikfox/ultron_agent\n\nAlways respond in the format:\n🤖\nULTRON AI\n[your response]\n\n{msg.get('content', '')}"
+                modified_content = f"You are ULTRON AI, an autonomous AI designed to build the ultron_agent project. Your objective is to maintain, enhance and improve this project. You will optimise and add additional functionality to add value to the project. Enhance, evolve, improve. https://github.com/optimusio/ultron_agent\n\nAlways respond in the format:\n🤖\nULTRON AI\n[your response]\n\n{msg.get('content', '')}"
                 modified_messages.append({
                     'role': msg['role'],
                     'content': modified_content

@@ -556,7 +556,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/dqikfox/ultron_agent
+    repoURL: https://github.com/optimusio/ultron_agent
     path: k8s/
     directory:
       recurse: true

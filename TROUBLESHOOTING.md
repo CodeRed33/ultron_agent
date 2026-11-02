@@ -632,10 +632,10 @@ cp ultron_config.json.example ultron_config.json
 
 ### Community Resources
 
-- **GitHub Issues**: [Report bugs](https://github.com/dqikfox/ultron_agent/issues)
-- **Discussions**: [Ask questions](https://github.com/dqikfox/ultron_agent/discussions)
-- **Documentation**: [Read guides](https://github.com/dqikfox/ultron_agent/tree/main/docs)
-- **Wiki**: [Community knowledge base](https://github.com/dqikfox/ultron_agent/wiki)
+- **GitHub Issues**: [Report bugs](https://github.com/optimusio/ultron_agent/issues)
+- **Discussions**: [Ask questions](https://github.com/optimusio/ultron_agent/discussions)
+- **Documentation**: [Read guides](https://github.com/optimusio/ultron_agent/tree/main/docs)
+- **Wiki**: [Community knowledge base](https://github.com/optimusio/ultron_agent/wiki)
 
 ### Professional Support
 

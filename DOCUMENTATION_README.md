@@ -16,7 +16,7 @@ The instructions are **self-discovering**: when developers use these tools in th
 ### Using Copilot
 ```bash
 # Clone the repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # Use any Copilot tool
@@ -333,7 +333,7 @@ test -f enhanced_memory_system.py && echo "✓ Enhanced exists"
 ### Initial Setup
 ```bash
 # 1. Clone
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # 2. Configure git hooks
@@ -424,4 +424,4 @@ git commit -m "docs: update [section]"
 **Documentation Version:** 3.0
 **Last Updated:** 2026-03-06
 **Maintainer:** ULTRON Agent Team
-**Repository:** https://github.com/dqikfox/ultron_agent
+**Repository:** https://github.com/optimusio/ultron_agent

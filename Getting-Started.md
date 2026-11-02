@@ -9,7 +9,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 npm install
 ```

@@ -219,7 +219,7 @@ python main.py --help
 ## 📝 Version Information
 
 - **Created:** November 7, 2025
-- **Repository:** dqikfox/ultron_agent
+- **Repository:** optimusio/ultron_agent
 - **Analysis Coverage:** 7 open pull requests
 - **Total Documentation:** 37KB across 3 files
 - **Created by:** Copilot Coding Agent

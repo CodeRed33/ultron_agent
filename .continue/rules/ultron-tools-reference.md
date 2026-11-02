@@ -73,7 +73,7 @@ ULTRON integrates with MCP servers defined in `mcp.json` and accessible through 
 **Usage**:
 ```
 "github: list my issues"
-"github: create issue 'Bug in voice system' in dqikfox/ultron_agent"
+"github: create issue 'Bug in voice system' in optimusio/ultron_agent"
 "github: list commits in main branch"
 "github: create PR 'feat: new tool' from branch feature"
 ```
@@ -318,7 +318,7 @@ You:
 
 Continue.dev:
 Uses github MCP server to:
-1. Create issue in dqikfox/ultron_agent
+1. Create issue in optimusio/ultron_agent
 2. Add description with context
 3. Return issue URL
 ```

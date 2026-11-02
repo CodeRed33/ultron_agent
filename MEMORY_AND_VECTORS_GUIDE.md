@@ -539,4 +539,4 @@ except Exception as e:
 - **Pinecone Docs:** https://docs.pinecone.io/
 - **OpenAI Embeddings:** https://platform.openai.com/docs/guides/embeddings/
 - **Vector Database Comparison:** https://benchmark.superlinked.com/
-- **ULTRON Repository:** https://github.com/dqikfox/ultron_agent
+- **ULTRON Repository:** https://github.com/optimusio/ultron_agent

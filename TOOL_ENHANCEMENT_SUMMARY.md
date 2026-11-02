@@ -457,8 +457,8 @@ Want to enhance these tools? See `CONTRIBUTING.md` for:
 
 ## 📞 Support
 
-- **Issues**: https://github.com/dqikfox/ultron_agent/issues
-- **Discussions**: https://github.com/dqikfox/ultron_agent/discussions
+- **Issues**: https://github.com/optimusio/ultron_agent/issues
+- **Discussions**: https://github.com/optimusio/ultron_agent/discussions
 - **Email**: ultron-support@example.com
 
 ---

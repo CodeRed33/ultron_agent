@@ -154,7 +154,7 @@
 ### Version Control
 
 #### Git
-- **Repository**: https://github.com/dqikfox/ultron_agent.git
+- **Repository**: https://github.com/optimusio/ultron_agent.git
 - **Branches**: main, development, feature branches
 - **Ignore**: .gitignore (build/, logs/, cache/, .env)
 

@@ -2,7 +2,7 @@
 import requests
 import os
 
-url = "https://ultron-agent-ai-assistant-dkgcuzmbr-dqikfoxs-projects.vercel.app"
+url = "https://ultron-agent-ai-assistant-dkgcuzmbr-optimusios-projects.vercel.app"
 headers = {
     "Authorization": "Bearer REDACTED_VERCEL_TOKEN_2",
     "Content-Type": "application/json"

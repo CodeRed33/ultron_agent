@@ -63,7 +63,7 @@ This enhanced version addresses all critical issues identified in the original U
 
 ```bash
 # Clone the repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # Use the enhanced startup script (Windows)
@@ -342,7 +342,7 @@ python -c "from utils.model_awareness import get_system_stability_score; print(f
 - [Development Guide](docs/DEVELOPMENT.md)
 
 ### Support
-- GitHub Issues: https://github.com/dqikfox/ultron_agent/issues
+- GitHub Issues: https://github.com/optimusio/ultron_agent/issues
 - Documentation: https://ultron-agent.readthedocs.io
 - Community: https://discord.gg/ultron-agent
 

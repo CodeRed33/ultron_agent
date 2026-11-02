@@ -6,7 +6,7 @@ import os
 
 def test_vercel_assistant():
     print("🌐 Testing Vercel Assistant...")
-    url = "https://ultron-agent-ai-assistant-dkgcuzmbr-dqikfoxs-projects.vercel.app"
+    url = "https://ultron-agent-ai-assistant-dkgcuzmbr-optimusios-projects.vercel.app"
     
     try:
         response = requests.post(

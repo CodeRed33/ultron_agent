@@ -396,7 +396,7 @@ If using this system in research, please cite the underlying theories:
 ## Contact & Support
 
 - **Project**: ULTRON Agent Consciousness Module
-- **Repository**: dqikfox/ultron_agent
+- **Repository**: optimusio/ultron_agent
 - **Documentation**: `/home/ultro/projects/ultron_agent/cognition/`
 - **Tests**: `python cognition/consciousness_tests.py`
 - **Issues**: File in GitHub repository

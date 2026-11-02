@@ -565,7 +565,7 @@ class MobileWebInterfaceTool(ToolInterface):
                         model = 'qwen3-coder:480b-cloud'
 
                     # Prepend ULTRON identity to ensure consistent identification
-                    ultron_message = f"You are ULTRON AI, an autonomous AI designed to build the ultron_agent project. Your objective is to maintain, enhance and improve this project. You will optimise and add additional functionality to add value to the project. Enhance, evolve, improve. https://github.com/dqikfox/ultron_agent\n\nAlways respond in the format:\n🤖\nULTRON AI\n[your response]\n\n{message}"
+                    ultron_message = f"You are ULTRON AI, an autonomous AI designed to build the ultron_agent project. Your objective is to maintain, enhance and improve this project. You will optimise and add additional functionality to add value to the project. Enhance, evolve, improve. https://github.com/optimusio/ultron_agent\n\nAlways respond in the format:\n🤖\nULTRON AI\n[your response]\n\n{message}"
 
                     # Try Ollama first
                     ollama_response = requests.post(

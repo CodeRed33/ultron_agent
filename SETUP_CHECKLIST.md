@@ -98,7 +98,7 @@ ollama list
 cd C:\Projects
 
 # Clone repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 
 # Navigate to project
 cd ultron_agent
@@ -541,7 +541,7 @@ Get-Content logs\agent_core.log -Tail 50
 3. See troubleshooting docs:
    - `VOICE_MICROPHONE_DOCUMENTATION.md`
    - `SYSTEM_ARCHITECTURE.md`
-4. GitHub issues: https://github.com/dqikfox/ultron_agent/issues
+4. GitHub issues: https://github.com/optimusio/ultron_agent/issues
 
 ---
 

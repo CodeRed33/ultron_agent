@@ -12,4 +12,4 @@ This documentation will help you understand, use, and contribute to the project.
 
 ---
 **Ultron Agent** is a technical agent framework designed for advanced automation and intelligence.  
-Project maintained by [dqikfox](https://github.com/dqikfox).
+Project maintained by [optimusio](https://github.com/optimusio).

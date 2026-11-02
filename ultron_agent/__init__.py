@@ -4,7 +4,7 @@ from __future__ import annotations
 __version__ = "3.0.0"
 __title__ = "Ultron Agent"
 __description__ = "Local voice-first AI assistant with multi-model support"
-__author__ = "dqikfox"
+__author__ = "optimusio"
 
 # Import main components for easy access
 from ultron_agent.config import UltronConfig, get_config, load_config

@@ -206,7 +206,7 @@ When you start the GitHub MCP server, you'll be prompted:
 mcp_tool.execute("start mcp browsermcp")
 
 # Navigate and interact
-mcp_tool.execute("browser: go to github.com/dqikfox/ultron_agent")
+mcp_tool.execute("browser: go to github.com/optimusio/ultron_agent")
 mcp_tool.execute("browser: click the 'Star' button")
 mcp_tool.execute("browser: take screenshot")
 ```

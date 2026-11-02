@@ -4,7 +4,7 @@ import os
 
 os.environ["OPENAI_API_KEY"] = "REDACTED_OPENAI_KEY_3"
 
-url = "https://ultron-agent-ai-assistant-dkgcuzmbr-dqikfoxs-projects.vercel.app"
+url = "https://ultron-agent-ai-assistant-dkgcuzmbr-optimusios-projects.vercel.app"
 headers = {
     "Authorization": f"Bearer {os.getenv('OPENAI_API_KEY')}",
     "Content-Type": "application/json"

@@ -8,7 +8,7 @@
 **Language**: Python 3.10+
 **Architecture**: Modular Plugin System
 **License**: MIT
-**Repository**: https://github.com/dqikfox/ultron_agent
+**Repository**: https://github.com/optimusio/ultron_agent
 
 ---
 

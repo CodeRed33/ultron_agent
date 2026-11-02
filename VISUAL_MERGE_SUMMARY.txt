@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                    ULTRON AGENT - PR MERGE SUMMARY                          │
-│                        Repository: dqikfox/ultron_agent                     │
+│                        Repository: optimusio/ultron_agent                     │
 │                            Date: November 7, 2025                           │
 └─────────────────────────────────────────────────────────────────────────────┘
 

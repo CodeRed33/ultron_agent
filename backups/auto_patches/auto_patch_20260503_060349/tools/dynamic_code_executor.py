@@ -199,7 +199,7 @@ class DynamicCodeExecutor:
                 ctx.operation = "maverick_contact"
                 analysis_prompt = """
 analyse & review the Ultron Agent project:
-https://github.com/dqikfox/ultron_agent
+https://github.com/optimusio/ultron_agent
 
 Make suggestions and recommendations for improving or enhancing:
 Enhance and improve. Add or improve functionality.

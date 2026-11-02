@@ -133,7 +133,7 @@ See **[UBUNTU_SETUP.md](UBUNTU_SETUP.md)** for detailed Linux installation guide
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # Install dependencies

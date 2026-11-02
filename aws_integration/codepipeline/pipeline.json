@@ -19,7 +19,7 @@
               "version": "1"
             },
             "configuration": {
-              "Owner": "dqikfox",
+              "Owner": "optimusio",
               "Repo": "ultron_agent",
               "Branch": "main",
               "OAuthToken": "{{resolve:secretsmanager:github-token:SecretString:token}}"

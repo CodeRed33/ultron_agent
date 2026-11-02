@@ -191,16 +191,16 @@ Continue.dev understands GitHub CLI:
 
 ```bash
 # Search code
-gh search code --owner dqikfox "voice_enabled"
+gh search code --owner optimusio "voice_enabled"
 
 # List issues
-gh issue list --repo dqikfox/ultron_agent --label bug
+gh issue list --repo optimusio/ultron_agent --label bug
 
 # Create PR
 gh pr create --title "feat: Add new tool" --body "Description"
 
 # View commits
-gh repo view dqikfox/ultron_agent
+gh repo view optimusio/ultron_agent
 ```
 
 ---

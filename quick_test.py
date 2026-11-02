@@ -9,7 +9,7 @@ print("🔑 API Key:", os.getenv("OPENAI_API_KEY")[:20] + "...")
 
 # Test Vercel endpoint
 print("\n🌐 Testing Vercel...")
-url = "https://ultron-agent-ai-assistant-dkgcuzmbr-dqikfoxs-projects.vercel.app"
+url = "https://ultron-agent-ai-assistant-dkgcuzmbr-optimusios-projects.vercel.app"
 
 try:
     # Test basic GET

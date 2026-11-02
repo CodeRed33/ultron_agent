@@ -30,7 +30,7 @@ This guide provides detailed installation instructions for ULTRON Agent 3.0 acro
 python --version
 
 # Clone repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # Create virtual environment
@@ -82,7 +82,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 brew install python@3.11 git
 
 # Clone repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # Create virtual environment
@@ -127,7 +127,7 @@ sudo apt install portaudio19-dev python3-pyaudio libasound2-dev
 sudo apt install python3-tk
 
 # Clone repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # Create virtual environment
@@ -163,7 +163,7 @@ sudo dnf install portaudio-devel alsa-lib-devel  # or yum for older versions
 
 ```bash
 # Pull the latest image
-docker pull dqikfox/ultron-agent:latest
+docker pull optimusio/ultron-agent:latest
 
 # Run with volume mounts for configuration
 docker run -d \
@@ -171,14 +171,14 @@ docker run -d \
   -p 8000:8000 \
   -v $(pwd)/config:/app/config \
   -v $(pwd)/logs:/app/logs \
-  dqikfox/ultron-agent:latest
+  optimusio/ultron-agent:latest
 ```
 
 ### Building from Source
 
 ```bash
 # Clone repository
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 
 # Build Docker image
@@ -525,7 +525,7 @@ python main.py --monitor-memory
 If you encounter issues:
 
 1. Check the [FAQ](FAQ.md)
-2. Search [GitHub Issues](https://github.com/dqikfox/ultron_agent/issues)
+2. Search [GitHub Issues](https://github.com/optimusio/ultron_agent/issues)
 3. Run diagnostics: `python main.py --diagnose`
 4. Create a new issue with:
    - Operating system and version

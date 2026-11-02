@@ -180,10 +180,10 @@ Continue.dev understands GitHub CLI commands:
 
 ```bash
 # Search code across repositories
-gh search code --owner dqikfox "voice_enabled"
+gh search code --owner optimusio "voice_enabled"
 
 # List issues
-gh issue list --repo dqikfox/ultron_agent --label bug
+gh issue list --repo optimusio/ultron_agent --label bug
 
 # Create PR
 gh pr create --title "feat: Add new tool" --body "Description"

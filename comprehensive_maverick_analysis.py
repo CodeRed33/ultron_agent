@@ -18,9 +18,9 @@ def main():
     # Get repository information
     repo_info = {
         'name': 'ultron_agent',
-        'owner': 'dqikfox',
+        'owner': 'optimusio',
         'branch': 'main',
-        'url': 'https://github.com/dqikfox/ultron_agent',
+        'url': 'https://github.com/optimusio/ultron_agent',
         'current_date': 'September 13, 2025'
     }
 

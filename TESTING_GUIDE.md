@@ -401,4 +401,4 @@ def setup_ci_env():
 - **Pytest Documentation:** https://docs.pytest.org/
 - **pytest-asyncio:** https://pytest-asyncio.readthedocs.io/
 - **pytest-cov:** https://pytest-cov.readthedocs.io/
-- **ULTRON Repository:** https://github.com/dqikfox/ultron_agent
+- **ULTRON Repository:** https://github.com/optimusio/ultron_agent

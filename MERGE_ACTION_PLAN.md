@@ -34,7 +34,7 @@ git log origin/main..origin/copilot/fix-git-sync-issues --oneline
 git diff origin/main...origin/copilot/fix-git-sync-issues --stat
 
 # If changes look good, merge via GitHub web interface:
-# 1. Go to https://github.com/dqikfox/ultron_agent/pull/54
+# 1. Go to https://github.com/optimusio/ultron_agent/pull/54
 # 2. Review the PR one more time
 # 3. Click "Ready for review" if still draft
 # 4. Click "Merge pull request"
@@ -113,7 +113,7 @@ git push origin --force --tags
 
 ### Step 1.4: Enable GitHub Security Features
 
-1. Go to: https://github.com/dqikfox/ultron_agent/settings/security_analysis
+1. Go to: https://github.com/optimusio/ultron_agent/settings/security_analysis
 
 2. Enable:
    - [x] Dependency graph
@@ -174,7 +174,7 @@ git checkout origin/copilot/fix-ci-job-issues
 git diff origin/main...origin/copilot/fix-ci-job-issues
 
 # Merge via GitHub web interface:
-# 1. Go to https://github.com/dqikfox/ultron_agent/pull/57
+# 1. Go to https://github.com/optimusio/ultron_agent/pull/57
 # 2. Click "Ready for review" if still draft
 # 3. Review changes one more time
 # 4. Click "Merge pull request"
@@ -191,7 +191,7 @@ The PR adds a placeholder URL for `resources/UltronSysAgent`. You need to:
 nano .gitmodules
 
 # Update the URL from:
-# url = https://github.com/dqikfox/UltronSysAgent.git
+# url = https://github.com/optimusio/UltronSysAgent.git
 # To the actual repository URL
 
 # Commit and push
@@ -216,7 +216,7 @@ git push origin main
 # Trigger a CI run manually if needed
 git push origin main --force-with-lease
 
-# Monitor at: https://github.com/dqikfox/ultron_agent/actions
+# Monitor at: https://github.com/optimusio/ultron_agent/actions
 ```
 
 ---
@@ -229,7 +229,7 @@ This PR is pure documentation, merge it first to get it out of the way:
 
 ```bash
 # Via GitHub web interface:
-# 1. Go to https://github.com/dqikfox/ultron_agent/pull/60
+# 1. Go to https://github.com/optimusio/ultron_agent/pull/60
 # 2. Click "Ready for review" if still draft
 # 3. Click "Merge pull request"
 # 4. Confirm merge
@@ -239,7 +239,7 @@ This PR is pure documentation, merge it first to get it out of the way:
 
 ```bash
 # Via GitHub web interface:
-# 1. Go to https://github.com/dqikfox/ultron_agent/pull/52
+# 1. Go to https://github.com/optimusio/ultron_agent/pull/52
 # 2. Click "Ready for review" if still draft
 # 3. Review changes (adds new files only)
 # 4. Click "Merge pull request"
@@ -266,7 +266,7 @@ python -c "import agent_core; import brain"
 
 # If no conflicts or after resolving:
 # Via GitHub web interface:
-# 1. Go to https://github.com/dqikfox/ultron_agent/pull/55
+# 1. Go to https://github.com/optimusio/ultron_agent/pull/55
 # 2. Click "Ready for review" if still draft
 # 3. Click "Merge pull request"
 # 4. If conflicts shown, use "Resolve conflicts" button
@@ -295,7 +295,7 @@ python -c "from utils.performance_analytics import get_performance_analytics; pr
 
 # If all tests pass and code looks good:
 # Via GitHub web interface:
-# 1. Go to https://github.com/dqikfox/ultron_agent/pull/53
+# 1. Go to https://github.com/optimusio/ultron_agent/pull/53
 # 2. ALREADY NOT A DRAFT - good sign
 # 3. Thoroughly review code changes
 # 4. Click "Merge pull request"
@@ -465,7 +465,7 @@ git push origin v3.1.0
 
 ### Step 5.6: Create GitHub Release
 
-1. Go to: https://github.com/dqikfox/ultron_agent/releases/new
+1. Go to: https://github.com/optimusio/ultron_agent/releases/new
 
 2. Fill in:
    - **Tag:** v3.1.0
@@ -513,7 +513,7 @@ We've completed a critical security update to the ultron_agent repository.
 
 IMMEDIATE ACTIONS REQUIRED:
 1. Delete your local clone of the repository
-2. Re-clone from: https://github.com/dqikfox/ultron_agent
+2. Re-clone from: https://github.com/optimusio/ultron_agent
 3. Update your .env file with new API keys (see internal wiki)
 4. Do NOT use old API keys - they have been rotated
 
@@ -528,7 +528,7 @@ NEW FEATURES:
 - Ollama Model Pull Feature
 - Performance improvements: 50% faster cached responses
 
-See release notes: https://github.com/dqikfox/ultron_agent/releases/tag/v3.1.0
+See release notes: https://github.com/optimusio/ultron_agent/releases/tag/v3.1.0
 
 Questions? Reply to this email or contact me directly.
 
@@ -592,7 +592,7 @@ git revert HEAD  # Revert if needed
 **Solution:**
 ```bash
 # Check GitHub Actions logs
-# https://github.com/dqikfox/ultron_agent/actions
+# https://github.com/optimusio/ultron_agent/actions
 
 # If it's the self_improvement workflow:
 # - PR #57 should have fixed this

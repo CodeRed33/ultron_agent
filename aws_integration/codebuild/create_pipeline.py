@@ -14,7 +14,7 @@ def create_codebuild_project():
         'description': 'ULTRON Agent CI/CD Build Project',
         'source': {
             'type': 'GITHUB',
-            'location': 'https://github.com/dqikfox/ultron_agent.git',
+            'location': 'https://github.com/optimusio/ultron_agent.git',
             'buildspec': 'aws_integration/codebuild/buildspec.yml'
         },
         'artifacts': {

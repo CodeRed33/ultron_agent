@@ -699,4 +699,4 @@ asyncio.run(productivity_assistant())
 - **Tool Development Guide**: [Tool Development](docs/tool_development.md)
 - **Authentication Guide**: [Auth Guide](docs/authentication.md)
 
-For more examples and advanced usage patterns, see the [Usage Guide](USAGE.md) and [GitHub Examples](https://github.com/dqikfox/ultron_agent/tree/main/examples).
+For more examples and advanced usage patterns, see the [Usage Guide](USAGE.md) and [GitHub Examples](https://github.com/optimusio/ultron_agent/tree/main/examples).

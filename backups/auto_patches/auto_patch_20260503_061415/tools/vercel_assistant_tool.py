@@ -10,7 +10,7 @@ class VercelAssistantTool(Tool):
     description = "Connect to deployed Vercel AI assistant"
     
     def __init__(self):
-        self.base_url = "https://ultron-agent-ai-assistant-dkgcuzmbr-dqikfoxs-projects.vercel.app"
+        self.base_url = "https://ultron-agent-ai-assistant-dkgcuzmbr-optimusios-projects.vercel.app"
     
     @staticmethod
     def schema():

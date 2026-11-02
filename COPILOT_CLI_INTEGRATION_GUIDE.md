@@ -320,7 +320,7 @@ Copilot will:
 5. Create tests
 
 Create PR #123: Optimize tool discovery with caching
-https://github.com/dqikfox/ultron_agent/pull/123
+https://github.com/optimusio/ultron_agent/pull/123
 ```
 
 ### Example 3: Self-Prompting Improvement

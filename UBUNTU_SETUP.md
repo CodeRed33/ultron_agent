@@ -84,7 +84,7 @@ ollama list
 ### 1. Clone Repository (if not already done)
 
 ```bash
-git clone https://github.com/dqikfox/ultron_agent.git
+git clone https://github.com/optimusio/ultron_agent.git
 cd ultron_agent
 ```
 
